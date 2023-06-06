@@ -59,6 +59,8 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId) {
                 R.id.home -> startActivity(Intent(this, MainActivity::class.java))
 
+                R.id.currencyCodes -> startActivity(Intent(this, CurrencyCodes::class.java))
+
                 R.id.about -> startActivity(Intent(this, About::class.java))
 
                 R.id.exit -> {
@@ -135,7 +137,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-
         if (toggle.onOptionsItemSelected(item)) {
             return true
         }

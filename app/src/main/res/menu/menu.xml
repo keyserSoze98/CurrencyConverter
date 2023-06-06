@@ -9,6 +9,11 @@
         android:title="@string/home" />
 
     <item
+        android:id="@+id/currencyCodes"
+        android:icon="@drawable/rupee"
+        android:title="@string/currency_codes" />
+
+    <item
         android:id="@+id/about"
         android:icon="@drawable/about"
         android:title="@string/about" />
