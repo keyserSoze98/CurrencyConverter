@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="choose_source_currency">Choose source currency</string>
+    <string name="choose_target_currency">Choose target currency</string>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>AED</item>
+        <item>AFN</item>
+        <item>ALL</item>
+        <item>BRL</item>
+        <item>CNY</item>
+        <item>KWD</item>
+        <item>MYR</item>
+        <item>MXN</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>OMR</item>
+        <item>PKR</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>CHF</item>
+        <!-- Add more currency codes as needed -->
+    </string-array>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="currency_converter">Currency Converter by Keyser Soze</string>
+    <string name="welcome">Welcome to Currency Converter by Keyser Soze</string>
+    <string name="about_text">Developed by Keyser Soze \nVersion: 1.0</string>
+    <string name="splash_name">Currency \nConverter</string>
+    <string name="currency_codes">Currency Codes</string>
+</resources>
